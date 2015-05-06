@@ -17,5 +17,5 @@ $this->registerJs("
     function addZero(i) {
         return (i < 10)? '0' + i: i;
     }
-    $('".$options['id']."').fullCalendar(".Json::encode($pluginOptions).");");
+    $('#".$options['id']."').fullCalendar(".Json::encode($pluginOptions).");");
 ?>
