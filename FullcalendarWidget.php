@@ -4,7 +4,18 @@ namespace datalayerru\FullcalendarWidget;
 
 class FullcalendarWidget extends \yii\base\Widget
 {
+    /**
+     * Div's options
+     *
+     * @var array
+     */
     public $options       = [];
+
+    /**
+     * Fullcalendar's options
+     *
+     * @var array
+     */
     public $pluginOptions = [];
 
     public function run()
