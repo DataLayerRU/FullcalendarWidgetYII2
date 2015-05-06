@@ -16,7 +16,8 @@ class FullcalendarAsset extends AssetBundle
         'fullcalendar.min.css'
     ];
     public $depends    = [
-        'yii\web\YiiAsset'
+        'yii\web\YiiAsset',
+        'datalayerru\FullcalendarWidget\assets\MomentAsset'
     ];
 
 }
