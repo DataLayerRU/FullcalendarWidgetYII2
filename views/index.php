@@ -10,7 +10,7 @@ use datalayerru\FullcalendarWidget\assets\FullcalendarAsset;
 FullcalendarAsset::register($this);
 ?>
 
-<?= Html::tag('div', $options); ?>
+<?= Html::tag('div', '', $options); ?>
 
 <?php
 $this->registerJs("

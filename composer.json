@@ -1,6 +1,6 @@
 {
     "name": "datalayerru/fullcalendar-widget-yii2",
-    "version": "0.1.1",
+    "version": "0.2.2",
     "description": "Wrapper for FullCalendar",
     "keywords": ["yii2", "widget", "js calendar", "calendar", "FullCalendar"],
     "type": "yii2-extension",
@@ -18,7 +18,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jquery": "2.1.*@stable | 1.11.*@stable"
+        "bower-asset/jquery": "2.1.*@stable | 1.11.*@stable",
+        "bower-asset/moment": "2.10.2"
     },
     "autoload": {
         "psr-4": {
