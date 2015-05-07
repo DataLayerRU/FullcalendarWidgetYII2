@@ -1,6 +1,6 @@
 {
     "name": "datalayerru/fullcalendar-widget-yii2",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Wrapper for FullCalendar",
     "keywords": ["yii2", "widget", "js calendar", "calendar", "FullCalendar"],
     "type": "yii2-extension",
