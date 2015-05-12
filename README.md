@@ -5,7 +5,7 @@
 
 FullcalendarWidgetYII2 is available through [composer](https://getcomposer.org/)
 
-  composer require datalayerru/fullcalendar-widget-yii2 "dev-master"
+    composer require datalayerru/fullcalendar-widget-yii2 "dev-master"
   
 Alternatively you can add the following to the `require` section in your `composer.json` manually:
 
