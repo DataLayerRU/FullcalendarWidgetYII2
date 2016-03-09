@@ -5,7 +5,7 @@
 
 use yii\helpers\Html;
 use yii\helpers\Json;
-use datalayerru\FullcalendarWidget\assets\FullcalendarAsset;
+use professionalweb\FullcalendarWidget\assets\FullcalendarAsset;
 
 FullcalendarAsset::register($this);
 ?>

@@ -1,6 +1,6 @@
 <?php
 
-namespace datalayerru\FullcalendarWidget\assets;
+namespace professionalweb\FullcalendarWidget\assets;
 
 use yii\web\AssetBundle;
 

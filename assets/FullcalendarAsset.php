@@ -1,12 +1,12 @@
 <?php
 
-namespace datalayerru\FullcalendarWidget\assets;
+namespace professionalweb\FullcalendarWidget\assets;
 
 use yii\web\AssetBundle;
 
 class FullcalendarAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/datalayerru/fullcalendar-widget-yii2/assets/fullcalendar-2.3.1';
+    public $sourcePath = '@vendor/professionalweb/fullcalendar-widget-yii2/assets/fullcalendar-2.3.1';
     public $js         = [
         'fullcalendar.min.js',
         'gcal.js',
@@ -17,7 +17,7 @@ class FullcalendarAsset extends AssetBundle
     ];
     public $depends    = [
         'yii\web\YiiAsset',
-        'datalayerru\FullcalendarWidget\assets\MomentAsset'
+        'professionalweb\FullcalendarWidget\assets\MomentAsset'
     ];
 
 }

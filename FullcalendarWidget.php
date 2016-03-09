@@ -1,6 +1,6 @@
 <?php
 
-namespace datalayerru\FullcalendarWidget;
+namespace professionalweb\FullcalendarWidget;
 
 class FullcalendarWidget extends \yii\base\Widget
 {

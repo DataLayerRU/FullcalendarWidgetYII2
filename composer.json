@@ -1,19 +1,19 @@
 {
-    "name": "datalayerru/fullcalendar-widget-yii2",
+    "name": "professionalweb/fullcalendar-widget-yii2",
     "version": "0.2.3",
     "description": "Wrapper for FullCalendar",
-    "keywords": ["yii2", "widget", "js calendar", "calendar", "FullCalendar"],
+    "keywords": ["yii2", "widget", "js calendar", "calendar", "FullCalendar", "professional web"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "email": "info@datalayer.ru",
-        "source": "https://github.com/DataLayerRU/FullcalendarWidgetYII2"
+        "email": "info@web-development.pw",
+        "source": "https://github.com/SergioMadness/FullcalendarWidgetYII2"
     },
     "authors": [
         {
             "name": "Sergey Zinchenko",
-            "email": "info@datalayer.ru",
-            "homepage": "http://datalayer.ru"
+            "email": "info@web-development.pw",
+            "homepage": "http://web-development.pw"
         }
     ],
     "require": {
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "datalayerru\\FullcalendarWidget\\": ""
+            "professionalweb\\FullcalendarWidget\\": ""
         }
     }
 }
