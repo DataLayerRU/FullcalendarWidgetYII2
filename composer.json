@@ -1,6 +1,6 @@
 {
     "name": "professionalweb/fullcalendar-widget-yii2",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "description": "Wrapper for FullCalendar",
     "keywords": ["yii2", "widget", "js calendar", "calendar", "FullCalendar", "professional web"],
     "type": "yii2-extension",
